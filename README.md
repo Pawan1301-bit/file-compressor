@@ -1,0 +1,1 @@
+A tool Developed Using C++ used to reduce the size of text file using huffman coding, a technique for lossless data. Huffman coding assigns the sort code to more frequent occuring character resulting in efficient storage of data
